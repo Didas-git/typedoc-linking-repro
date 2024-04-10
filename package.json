@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "author": "DidaS",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}
